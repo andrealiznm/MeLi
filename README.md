@@ -1,6 +1,10 @@
 # MeLi
 
-Para correr el programa debes instalar las siguientes librerias
+Puedes correr el programa así:
+
+python3 main.py
+
+Para correr el programa debes instalar previamente las siguientes librerias.
 
 # Google cliente libraries:
 
