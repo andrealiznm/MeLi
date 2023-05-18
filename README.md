@@ -1,6 +1,6 @@
 # MeLi
 
-# Para correr el programa debes instalar las siguientes librerias
+Para correr el programa debes instalar las siguientes librerias
 
 # Google cliente libraries:
 
